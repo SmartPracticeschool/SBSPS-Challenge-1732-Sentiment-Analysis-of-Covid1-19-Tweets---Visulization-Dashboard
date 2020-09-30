@@ -1,7 +1,7 @@
 # SBSPS-Challenge-1732-Sentiment-Analysis-of-Covid1-19-Tweets---Visulization-Dashboard
 team- invincible united
 name-shivam sarathe
-   below are the links for video ,the video are in two parts
+   below mentioned links are for videos, that is divided into two parts.
   
   part 1 - https://drive.google.com/file/d/1PMRh-tnY3cVIJsAMbEkpcNnX-NNYJLCk/view
   
